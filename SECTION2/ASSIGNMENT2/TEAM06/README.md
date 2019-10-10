@@ -7,7 +7,9 @@ Put your name in the Team Section and comment
 ## Team
 
 Wang, Zheng
+Lara, Edward
 
 ## Comments
 
 Wang, Zheng
+Lara, Edward
